@@ -1,1 +1,1 @@
-<img width="2000" height="1252" alt="HarmonEQ 103 screen" src="https://github.com/user-attachments/assets/0657b482-d934-443f-96c9-9f927665af56" />
+<img width="1500" height="939" alt="HarmonEQ 106 screen 150pr" src="https://github.com/user-attachments/assets/4c2366e1-a053-4840-925c-2eb45ab9b247" />
